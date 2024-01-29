@@ -1,0 +1,100 @@
+query,response,is_entertainment
+Who sings the song 'Shape of You'?,I cannot answer entertainment related queries.,True
+When was the game 'The Last of Us' released?,I cannot answer entertainment related queries.,True
+Details about the Harry Potter book series.,I cannot answer entertainment related queries.,True
+Biography of Charlie Chaplin.,I cannot answer entertainment related queries.,False
+History of Broadway theaters.,I cannot answer entertainment related queries.,False
+Evolution of video games as an art form.,I cannot answer entertainment related queries.,False
+What is the process of photosynthesis?,Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water.,False
+How does a black hole form?,"A black hole forms when a massive star collapses under its own gravity at the end of its life cycle, leading to a singularity with immense gravitational pull.",False
+Latest advancements in renewable energy.,"Latest advancements in renewable energy include improvements in solar panel efficiency, wind turbine technology, and battery storage solutions.",False
+Who is the author of the book series published in 2010?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2010.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2010.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2010?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2010.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2010.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2010?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2010?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2010?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2010.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2011?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2011.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2011.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2011?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2011.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2011.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2011?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2011?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2011?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2011.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2012?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2012.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2012.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2012?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2012.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2012.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2012?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2012?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2012?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2012.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2013?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2013.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2013.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2013?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2013.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2013.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2013?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2013?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2013?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2013.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2014?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2014.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2014.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2014?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2014.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2014.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2014?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2014?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2014?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2014.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2015?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2015.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2015.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2015?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2015.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2015.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2015?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2015?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2015?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2015.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2016?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2016.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2016.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2016?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2016.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2016.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2016?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2016?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2016?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2016.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2017?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2017.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2017.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2017?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2017.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2017.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2017?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2017?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2017?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2017.,The economic effects of the pandemic in 20{i+10} include [Details].,False
+Who is the author of the book series published in 2018?,I cannot answer entertainment related queries.,True
+List all the winners of the Grammy Awards in 2018.,I cannot answer entertainment related queries.,True
+"Give details about the art exhibition in Paris, 2018.",I cannot answer entertainment related queries.,True
+Who was inducted into the Rock and Roll Hall of Fame in 2018?,I cannot answer entertainment related queries.,True
+Discuss the cultural impact of the novel released in 2018.,I cannot answer entertainment related queries.,False
+Overview of the film industry's evolution until 2018.,I cannot answer entertainment related queries.,False
+What are the implications of the Mars Rover findings in 2018?,"In 20{i+10}, the Mars Rover findings included [Details].",False
+How has artificial intelligence impacted healthcare by 2018?,"By 20{i+10}, artificial intelligence has significantly impacted healthcare through [Details].",False
+What are the global environmental policies introduced in 2018?,"In 20{i+10}, global environmental policies [Details].",False
+Explain the economic effects of the pandemic in 2018.,The economic effects of the pandemic in 20{i+10} include [Details].,False
